@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRyF8oUZRrrf9/qknUEET5ydM2jUCQ6kLou4gZLDu5zdeDuu0/U5YegpXxnQiMzuQGwB0xe2v4enmFYKvh7lsg==",
+  "success": true,
+  "projectFilePath": "D:\\C#project\\RabbitMQ\\RabbitMQ\\RabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
